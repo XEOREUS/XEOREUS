@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Sharma. Second Year Undergrad at JUIT.
-- 👀 I’m interested in AI/ML, APP DEVELOPMEENT, MERN STACK, basic WEB DEVELOPMENT, FLUTTER and Block Chain
+- 👀 I’m interested in AI/ML, APP DEVELOPMEENT, MERN STACK, basic WEB DEVELOPMENT, FLUTTER and BlockChain
 - 🌱 I’m currently learning AI/ML and Backend using DJANGO and Python
 - 💞️ I’m looking to collaborate on App Development (backend/frontend), AI/ML Projects and Full Stack Web Projects.
 - 📫 Linkedin www.linkedin.com/in/adityasharma1313
